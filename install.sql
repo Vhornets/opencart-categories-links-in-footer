@@ -1,0 +1,1 @@
+ALTER TABLE `oc_category` ADD bottom INT(1);
